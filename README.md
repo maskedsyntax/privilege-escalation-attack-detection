@@ -78,4 +78,4 @@ If you use this code or approach, please cite:
 ```
 
 ## License
-MIT License — feel free to use, modify, and publish.
+This project is licensed under the [MIT License](LICENSE). See the `LICENSE` file for details.
